@@ -1,0 +1,7 @@
+C:\Users\User\PS03_Malate\MALATE_code\MALATE_code\obj\Debug\MALATE_code.csproj.AssemblyReference.cache
+C:\Users\User\PS03_Malate\MALATE_code\MALATE_code\obj\Debug\MALATE_code.csproj.CoreCompileInputs.cache
+C:\Users\User\PS03_Malate\MALATE_code\MALATE_code\bin\Debug\MALATE_code.exe.config
+C:\Users\User\PS03_Malate\MALATE_code\MALATE_code\bin\Debug\MALATE_code.exe
+C:\Users\User\PS03_Malate\MALATE_code\MALATE_code\bin\Debug\MALATE_code.pdb
+C:\Users\User\PS03_Malate\MALATE_code\MALATE_code\obj\Debug\MALATE_code.exe
+C:\Users\User\PS03_Malate\MALATE_code\MALATE_code\obj\Debug\MALATE_code.pdb
